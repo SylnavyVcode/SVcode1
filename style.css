@@ -1,0 +1,11 @@
+*{
+    background-color: aquamarine;
+}
+
+body{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    font-family: serif;
+    text-align: center;
+}
